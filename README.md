@@ -2,7 +2,7 @@
 
 [parcel](https://github.com/parcel-bundler/parcel) - fast, zero configuration web application bundler. Here is examle of usign parcel with [vuejs](https://vuejs.org/).
 
-![](preview.png)
+![](https://raw.githubusercontent.com/noveogroup-amorgunov/parcel-vuejs-starterkit/master/preveiw.png)
 
 ## Usage
 
