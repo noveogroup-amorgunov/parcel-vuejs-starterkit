@@ -17,7 +17,7 @@
       </transition>
     </main>
     <footer class="layout-footer">
-      <i class="fa fa-github-alt" aria-hidden="true"></i> <a href="#">See on github</a> <small>(Stars: <strong>{{githubStars}}</strong>)</small>, {{ year }}
+      <i class="fa fa-github-alt" aria-hidden="true"></i> <a href="https://github.com/noveogroup-amorgunov/parcel-vuejs-starterkit">See on github</a> <small>(Stars: <strong>{{githubStars}}</strong>)</small>, {{ year }}
     </footer>
   </div>
 </template>
@@ -35,6 +35,7 @@
 
   .layout-wrapper {
     flex: 1;
+    background-color: #f5fef5;
   }
 
   .layout-footer, .layout-header {
